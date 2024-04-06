@@ -94,5 +94,5 @@ def handle_error(route_name, error_message, status_code=500):
 # def about():
 #     return 'About'
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
