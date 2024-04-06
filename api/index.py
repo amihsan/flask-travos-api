@@ -256,8 +256,5 @@ def final_travos_result(sender, recipient, scenario_details):
     return final_trust_value, final_outcome, str(tuple(history)), sender, recipient
 
 
-
-
-
 if __name__ == '__main__':
     app.run(debug=True)
